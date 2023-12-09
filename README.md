@@ -1,5 +1,5 @@
-**SMS Spam Classification:
-Project Overview:**
+**SMS Spam Classification:**
+**Project Overview:**
 This project focuses on the classification of SMS messages as either spam or non-spam (ham) using data science techniques in Python. The dataset consists of labeled SMS messages, with the goal of training a machine learning model to accurately identify and classify spam messages.
 
 **Key Steps and Techniques:**
@@ -10,8 +10,8 @@ Model Training: Implement and train a text classification model, such as Logisti
 Model Evaluation: Evaluate the model's performance using metrics like accuracy, precision, recall, and F1 score.
 Deployment: Optionally, deploy the trained model for real-time or batch predictions.
 
-**Titanic Survival Prediction:
-Project Overview:**
+**Titanic Survival Prediction:**
+**Project Overview:**
 This project aims to predict the survival status of passengers on the Titanic using machine learning techniques. The dataset includes information about passengers, such as age, gender, class, and ticket fare, with the goal of predicting whether a passenger survived or not.
 
 **Key Steps and Techniques:**
